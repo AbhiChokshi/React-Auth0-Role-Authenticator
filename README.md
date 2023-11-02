@@ -1,4 +1,4 @@
-# React-Auth-Permissions
+# React-Auth0-Role-Authenticator
 
 Description:
 A secure React application with role-based access control using Auth0. Manage user permissions and JWT tokens effortlessly.
